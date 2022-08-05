@@ -75,3 +75,6 @@ skills:
 
       - name: Git & Github
         level: 55%
+
+      - name: Docker & Kubernet  
+        level: 55%
