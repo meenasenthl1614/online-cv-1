@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Meena
-    tagline: Devops Engineer
+    tagline: Trained Devops Candidate
     avatar: IMG_20210911_200529.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -76,5 +76,5 @@ skills:
       - name: Git & Github
         level: 55%
 
-      - name: Docker & Kubernet  
+      - name: Docker & Kubernetes  
         level: 55%
